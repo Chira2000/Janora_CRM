@@ -56,5 +56,20 @@ In our report, we will provide a detailed analysis of the order management syste
 
 
 
+1- Required software:
+* Visual Studio
+* .Net Framework 4.8 
+* Microsoft Access
+* Windows Support OS
+
+2-Interfacse
+
+>Lording
+<img src="IMG/loading pageee.jpg" height="400" width="900">
+
+
+
+
+
 
 
