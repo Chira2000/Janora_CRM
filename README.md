@@ -73,6 +73,25 @@ In our report, we will provide a detailed analysis of the order management syste
 >Place Order
 <img src="Place Order.png">
 
+>Customer Register
+<img src="Register.png">
+
+>Customer Login
+<img src="Login.png">
+
+>Admin Page
+<img src="Admin.png">
+
+>Order Management 
+<img src="AdminOrd.png">
+
+>Customer Details
+<img src="Customer.png">
+
+
+
+
+
 
 
 
