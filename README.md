@@ -70,6 +70,10 @@ In our report, we will provide a detailed analysis of the order management syste
 >Menu
 <img src="Menu.png">
 
+>Place Order
+<img src="Place Order.png">
+
+
 
 
 
