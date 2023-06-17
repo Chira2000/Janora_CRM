@@ -65,7 +65,7 @@ In our report, we will provide a detailed analysis of the order management syste
 2-Interfacse
 
 >Lording
-<img src="IMG/loading pageee.jpg" height="400" width="900">
+<img src="Home Page.JPG">
 
 
 
