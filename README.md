@@ -21,12 +21,18 @@ How to Run:
 6.Run "LoadScreen" Application.
 
 
+
+
+
 Admin Credentials:
 
 Username :  Admin
 
 
 Password :  admin123
+
+
+
 
 Customer Register Credentials:
 
