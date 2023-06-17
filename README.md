@@ -64,7 +64,7 @@ In our report, we will provide a detailed analysis of the order management syste
 
 2-Interfacse
 
->Lording
+>Home
 <img src="Home Page.JPG">
 
 
