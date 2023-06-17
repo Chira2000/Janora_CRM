@@ -68,6 +68,7 @@ In our report, we will provide a detailed analysis of the order management syste
 <img src="Home Page.JPG">
 
 >Menu
+<img src="Menu.JPG">
 
 
 
